@@ -1,3 +1,1 @@
-# ForeignLangsLearning
-
-I am trying to learn several languages, and then share my experiences in this repo.
+英语以外的语言学习记录存放在这个文件夹。
